@@ -1,0 +1,20 @@
+/* Estilos para el contenedor del mapa */
+#map {
+  height: 500px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+/* Estilos para el botón de reinicio */
+#resetRoute {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#resetRoute:hover {
+  background-color: #0056b3;
+}
